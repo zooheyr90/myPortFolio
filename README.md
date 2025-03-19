@@ -12,7 +12,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
  
 
 ## 🛠 Technical Skills  
-
+![](assets/img/Untitled.png)
 - **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
 
 - **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
